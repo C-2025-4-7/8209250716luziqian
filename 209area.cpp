@@ -8,6 +8,7 @@ int main() {
 		i++;
 	} while (apple * 2 < 100);
 	double average = total * 0.8 / ( i - 1 );
-	cout << "Æ½¾ù»¨·Ñ" << average << "Ôª" << endl;
+	cout << "平均花费" << average << "元" << endl;
 	return 0;
 }
+
