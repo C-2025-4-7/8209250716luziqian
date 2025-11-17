@@ -1,4 +1,5 @@
 #include<iostream>
+#include<cmath>
 using namespace std;
 int main() {
 	int apple = 0, total = 0, i = 1;
@@ -11,4 +12,5 @@ int main() {
 	cout << "平均花费" << average << "元" << endl;
 	return 0;
 }
+
 
