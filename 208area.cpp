@@ -11,9 +11,10 @@ double sqt(double a) {
 }
 int main() {
 	double a;
-	cout << "ÇëÊäÈëÊý×Ö£º" << endl;
+	cout << "è¯·è¾“å…¥æ•°å­—ï¼š" << endl;
 	cin >> a;
 	if (a < 0)  cout << sqt(-a) << 'i' << endl; 
 	else  cout << sqt(a) <<endl; 
 	return 0;
+
 }
